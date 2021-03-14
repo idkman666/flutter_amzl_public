@@ -1,0 +1,3 @@
+class RouteViewModleTemp{
+  String status;
+}
