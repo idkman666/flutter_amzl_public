@@ -1,16 +1,12 @@
 # flutter_app_amzl_proto
 
-A new Flutter application.
+A flutter android application made for Yard Marshall to help out with morning dispatch.
 
-## Getting Started
+## Usage:
+  - This app is build for Yard marshall's to use outside in the yard to check in delivery van drivers.
+  - App can be used to Check In drivers.
+  - Real time data visualization. Any changes done through web app is automatically updated in the mobile app.
+  - Demo: https://drive.google.com/file/d/1ezgbGN7PHn76VDRewEhs0zEDYodsW15o/view
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
